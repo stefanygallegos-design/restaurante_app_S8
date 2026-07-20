@@ -112,6 +112,7 @@ python main.py
 
 ## 👨‍💻 Autor
 
+Stefany Gallegos Zari
 Proyecto desarrollado como práctica académica para la asignatura de Programación Orientada a Objetos.
 
 Universidad Estatal Amazónica
